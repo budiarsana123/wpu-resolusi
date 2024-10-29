@@ -1,0 +1,8 @@
+RENCANA KONTEN WPU
+
+- Javascript
+  * Es6
+  * framwork javascript
+- Php Fremwork
+- Intervew
+- Vlogs
